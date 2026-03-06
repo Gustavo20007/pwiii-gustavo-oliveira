@@ -95,6 +95,7 @@ Exemplo de configuração para MySQL:
     -> DB_PASSWORD=
 
 Depois de configurar, execute:
+
     -> php artisan migrate
 
 Esse comando cria as tabelas necessárias no banco de dados.
@@ -102,5 +103,4 @@ Esse comando cria as tabelas necessárias no banco de dados.
 <!-- 9. Conclusão -->
 
 O Laravel oferece uma estrutura completa para desenvolvimento web em PHP. Com poucos comandos é possível instalar o framework, criar um projeto, configurar o banco de dados e iniciar uma aplicação.
-
 A documentação oficial disponível em Laravel Official Documentation fornece guias detalhados para aprofundar o desenvolvimento e explorar recursos avançados do framework.

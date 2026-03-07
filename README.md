@@ -3,12 +3,18 @@ Aula de programação de web III com o professor joão síles
 
 
 //criar uma documentação sobre como criar uma aplicação laravel e como configurar no windows
+php artisan (ajuda)
+php artisan key:generate(gerar chave)
 
+migrations up para subir a migrations
+migrations down para apagar/reverter a migration
 composer install
 
-# 📚 Documentação – Criação e Configuração de uma Aplicação Laravel no Windows
 
-## 📖 Introdução
+
+#  Documentação – Criação e Configuração de uma Aplicação Laravel no Windows
+
+##  Introdução
 
 Laravel é um framework PHP muito utilizado para desenvolver aplicações web. Ele facilita bastante o desenvolvimento porque já traz várias ferramentas prontas, como sistema de rotas, organização de pastas e comandos que ajudam a criar arquivos automaticamente.
 
@@ -16,7 +22,7 @@ Nesta documentação vou mostrar **como criar uma aplicação Laravel e como con
 
 ---
 
-# 🧱 Parte 1 – Como criar uma aplicação Laravel
+#  Parte 1 – Como criar uma aplicação Laravel
 
 ## Instalando o Composer
 
@@ -240,8 +246,3 @@ O Laravel facilita bastante o desenvolvimento de aplicações web em PHP.
 Com poucos comandos já é possível criar um projeto completo, configurar o ambiente e começar o desenvolvimento.
 
 Além disso, a organização de pastas e as ferramentas como o **Artisan** ajudam a manter o projeto mais organizado e fácil de manter.
-php artisan (ajuda)
-php artisan key:generate(gerar chave)
-
-migrations up para subir a migrations
-migrations down para apagar/reverter a migration

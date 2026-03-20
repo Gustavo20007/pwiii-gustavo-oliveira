@@ -187,7 +187,7 @@ Se tudo estiver correto, a página inicial do Laravel aparecerá.
 
 ---
 
-# 🛠 Utilizando o Artisan
+#  Utilizando o Artisan
 
 O **Artisan** é uma ferramenta de linha de comando que já vem com o Laravel.
 Ele ajuda a automatizar várias tarefas no desenvolvimento.
@@ -240,7 +240,7 @@ Esse comando cria as tabelas no banco de dados.
 
 ---
 
-# ✅ Conclusão
+# Conclusão
 
 O Laravel facilita bastante o desenvolvimento de aplicações web em PHP.
 Com poucos comandos já é possível criar um projeto completo, configurar o ambiente e começar o desenvolvimento.

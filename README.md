@@ -109,7 +109,7 @@ Depois de abrir o projeto no VS Code, o Laravel cria automaticamente algumas pas
 
 ---
 
-# ⚙️ Parte 2 – Como configurar o Laravel no Windows
+# Parte 2 – Como configurar o Laravel no Windows
 
 ## Verificando o PHP
 
